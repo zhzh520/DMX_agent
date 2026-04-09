@@ -148,17 +148,20 @@ def get_daily_hot(platform_title: str) -> dict:
 
 ##### agent.py
 
-![屏幕截图 2026-04-09 104632](C:\Users\huihu\Pictures\Screenshots\屏幕截图 2026-04-09 104632.png)
+<img width="1726" height="574" alt="屏幕截图 2026-04-09 104632" src="https://github.com/user-attachments/assets/4e0915fb-2ae9-4695-a10c-3404abd413fc" />
 
 ##### pearAPI.py
 
-![屏幕截图 2026-04-09 104644](C:\Users\huihu\Pictures\Screenshots\屏幕截图 2026-04-09 104644.png)
+<img width="1321" height="523" alt="屏幕截图 2026-04-09 104644" src="https://github.com/user-attachments/assets/342c9e4a-6575-4e0f-9e3d-463aff4281b3" />
 
-![屏幕截图 2026-04-09 104658](C:\Users\huihu\Pictures\Screenshots\屏幕截图 2026-04-09 104658.png)
+<img width="738" height="711" alt="屏幕截图 2026-04-09 104658" src="https://github.com/user-attachments/assets/a25115d8-488f-492b-a23a-6cefb8b2e2d7" />
 
-![屏幕截图 2026-04-09 104738](C:\Users\huihu\Pictures\Screenshots\屏幕截图 2026-04-09 104738.png)
+<img width="766" height="723" alt="屏幕截图 2026-04-09 104738" src="https://github.com/user-attachments/assets/020bae30-4093-4b4b-8c69-0f4fcea2ce65" />
 
-![屏幕截图 2026-04-09 104824](C:\Users\huihu\Pictures\Screenshots\屏幕截图 2026-04-09 104824.png)![屏幕截图 2026-04-09 104809](C:\Users\huihu\Pictures\Screenshots\屏幕截图 2026-04-09 104809.png)
+<img width="769" height="731" alt="屏幕截图 2026-04-09 104809" src="https://github.com/user-attachments/assets/d0b76e30-ad86-434e-bf26-beb5baf132fe" />
+
+<img width="1913" height="924" alt="屏幕截图 2026-04-09 104824" src="https://github.com/user-attachments/assets/b34c0fd3-e376-472a-819f-b3eb9c8f70c1" />
+
 
 - ## 注意事项
 
